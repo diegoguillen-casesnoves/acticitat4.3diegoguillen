@@ -4,4 +4,8 @@ void main() {
     System.out.println("Hola actividad 4.3 ");
 
     System.out.println("segundo commit... ");
+
+    int n = 10;
+    System.out.println(n + n);
+
 }
